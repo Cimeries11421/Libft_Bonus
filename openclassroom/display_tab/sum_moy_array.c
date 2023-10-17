@@ -61,4 +61,3 @@ float	moy_tab(int *tab, int tailleTableau)//renvoi la moyenne des valeur du tabl
 	moy /= 6; //Prends le valeur de la moyenne et la divise par 6 = update.
 	//printf("moyenne = %d", moy);
 	return moy;
-}
